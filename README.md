@@ -1,2 +1,2 @@
 # PCoT
-Persuasion-Enhanced Chain-of-Thought for Disinformation Detection
+Persuasion-Augmented Chain-of-Thought for Disinformation Detection
